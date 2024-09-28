@@ -3,7 +3,7 @@
     "scripts": {
         "build": "rpgjs build",
         "dev": "rpgjs dev",
-        "start": "node dist/server/main.mjs"
+        "start": "node server/main.mjs"
     },
     "engines": {
         "node": ">=14"
