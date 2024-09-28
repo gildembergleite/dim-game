@@ -1,0 +1,27 @@
+name = 'DW Online'
+
+modules = [
+    './character-select',
+    './title-screen',
+    './rpgjs-tactical-battle-system',
+    './chat',
+    './main',
+    '@rpgjs/default-gui',
+    '@rpgjs/gamepad'
+]
+
+spritesheetDirectories = [
+    'spritesheets/animations',
+    'spritesheets/characters',
+    'spritesheets/faces',
+    'spritesheets/shapes',
+]
+
+[titleScreen]
+    mongodb = "mongodb://localhost:27017/test"
+
+
+[start]
+    map = 'simplemap'
+    graphic = 'hero'
+    hitbox = [32, 32]

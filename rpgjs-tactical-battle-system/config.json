@@ -1,0 +1,6 @@
+{
+  "namespace": "rpgjs-tactical-battle-system",
+  "server": {},
+  "client": {},
+  "*": {}
+}

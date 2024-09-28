@@ -1,0 +1,15 @@
+
+{
+    "name": "rpgjs-rpgjs-tactical-battle-system",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "types": "index.d.ts",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "@rpgjs/client": "^4.2.0",
+      "@rpgjs/server": "^4.2.0"
+    }
+  }
