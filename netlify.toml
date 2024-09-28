@@ -1,3 +1,3 @@
 [build]
-  publish = "dist/standalone"
+  publish = "/"
   command = "npm run build"
