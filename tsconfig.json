@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es2020",
     "module": "esnext",
-    "outDir": "dist/standalone",
+    "outDir": "dist",
     "strict": true,
     "sourceMap": true,
     "strictNullChecks": true,
