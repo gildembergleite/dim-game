@@ -13,7 +13,7 @@
 
 <script>
 import axios from 'axios'
-axios.defaults.baseURL = 'https://channels.zarc.tech';
+axios.defaults.baseURL = 'https://352e-177-22-43-53.ngrok-free.app';
 
 const NICKNAME_EXISTS_MSG = 'Já existe uma conta com o e-mail informado.'
 
